@@ -1,0 +1,4 @@
+[map "b91c822e-a2df-30cd-9df4-097bd83137d6"]
+	object = d5eb362d0a7c38c65366f0885fce3f37f415274d
+	path = submodule1
+	type = expand module
